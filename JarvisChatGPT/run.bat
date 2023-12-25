@@ -1,7 +1,7 @@
 @echo off
 Echo Say "Always Listen" to turn the wake word off.
 Echo Say "Slient Mode" to turn the wake word on.
-Echo To close Jarvis just say "bye", "thats all",
+Echo To close Jarvis just say "Deactivate Jarvis", "Deactivate",
 Echo "shut down", "exit", or "stop listening".
 Echo:
 Echo Jarvis will not hear you if you make a loud noise
